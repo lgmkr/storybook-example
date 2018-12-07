@@ -10,8 +10,13 @@
     "@babel/core": "^7.2.0",
     "@babel/preset-env": "^7.2.0",
     "@storybook/addon-info": "^4.0.12",
+    "@storybook/addon-knobs": "^4.0.12",
     "@storybook/react": "^4.0.12",
-    "storybook-addon-jsx": "^6.0.0"
+    "@types/react": "^16.7.13",
+    "awesome-typescript-loader": "^5.2.1",
+    "react-docgen-typescript-webpack-plugin": "^1.1.0",
+    "storybook-addon-jsx": "^6.0.0",
+    "typescript": "^3.2.2"
   },
   "dependencies": {
     "babel-loader": "^8.0.0-beta.6",
